@@ -17,4 +17,6 @@ Usage:
 
 I have used this library as follows:
 
-`java -jar target/manifest-merger-jar-with-dependencies.jar --main <path_to_main_manifest> --libs <path_to_libs_manifests_divided by ':'> --out <output_manifest> --log WARNING`
+`java -jar target/manifest-merger-jar-with-dependencies.jar --main <path_to_main_manifest> --libs <path_to_libs_manifests_divided by ';'> --out <output_manifest> --log WARNING`
+
+
